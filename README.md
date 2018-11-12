@@ -22,10 +22,10 @@ Latent space of 32 dims:
 
 ![Alt text](cifar10_error.png?raw=true "CIFAR10 error")
 
-Latent space of 2 dims:
+Latent space of 32 dims:
 ![Alt text](cifar10/32_dim_space.png?raw=true "32 dims")
 
-Latent space of 32 dims:
+Latent space of 256 dims:
 ![Alt text](cifar10/256_dim_space.png?raw=true "256 dims")
 
 
