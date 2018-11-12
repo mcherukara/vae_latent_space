@@ -1,5 +1,5 @@
 # vae_latent_space
-Study latent space dimensionality on reconstruction accuracy
+Study latent space dimensionality on reconstruction accuracy in variational autoencoders using Keras and Tensorflow
 
 Repo contains two tests, on MNIST and CIFAR10. Not surprisingly, the more complex data in CIFAR10 requires a higher dimensionality in the latent space reprenentation
 
