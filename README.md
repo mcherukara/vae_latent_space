@@ -15,7 +15,8 @@ Latent space of 2 dims:
 Latent space of 32 dims:
 ![Alt text](mnist/32_dim_space.png?raw=true "MNIST 2 dims")
 
-
+Latent space of 128 dims:
+![Alt text](mnist/32_dim_space.png?raw=true "MNIST 2 dims")
 
 
 **CIFAR10**
