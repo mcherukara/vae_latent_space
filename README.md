@@ -3,7 +3,7 @@ Study latent space dimensionality on reconstruction accuracy in variational auto
 
 Repo contains two tests, on MNIST and CIFAR10. Not surprisingly, the more complex data in CIFAR10 requires a higher dimensionality in the latent space reprenentation
 
-
+VAE_loss is a weighted sum of two losses, the cross-entropy loss and the Kullback-Leibler (KL) divergence which measures how much two distributions diverge from each other. The MNIST plot below shows the effect of changing the weight on the KL divergence. As expected, by increasing the weight, the training loss goes up since the penalty on not adhering to the distribution is higher. However, the accuracy of the reconstructed images remains about the same. 
 
 **MNIST**
 
